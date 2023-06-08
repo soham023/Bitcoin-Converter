@@ -1,5 +1,5 @@
 # This is Crypto Converter using React Framework
-# This is a demo version of the final working model that will convert any crypto current to another crypto currency as per the user's requirement
+# This is a demo version of the final working model that will convert any crypto currency to another crypto currency as per the user's requirement
 
 
 
